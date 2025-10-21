@@ -6,4 +6,4 @@
 - `411278055_hw2.ipynb`
 
 請使用 [Google Colab](https://colab.research.google.com/) 開啟上述檔案。  
-開啟後依序執行各程式區塊（Cell）即可查看結果，無需額外安裝套件。
+開啟後依序執行各程式區塊即可查看結果，無需額外安裝套件。
